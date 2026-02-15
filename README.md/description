@@ -1,0 +1,52 @@
+#### Partie 1 – Analyse exploratoire ####
+   # Statistiques descriptives #
+   # Répartition géographique des clients #
+   # Top produits vendus #
+  # Meilleurs clients #
+  # Visualisations graphiques #
+
+####  Partie 2 – Requêtes SQL avancées ####
+    #  Window functions #
+	#  CTE récursif (hiérarchie employés) #
+	 # Procédures stockées #
+	# Fonction  #
+	 # Triggers #
+
+ ####  Partie 3 – Visualisations Python ####
+
+ ####  Graphiques générés : ####
+	 # Évolution mensuelle des ventes #
+	  # Répartition clients par pays #
+	 # Ventes par gamme de produits #
+      #   Top 10 produits #
+	   #  Analyse des stocks #
+	   #  Concentration du chiffre d’affaires #
+
+# Tous les graphiques sont sauvegardés au format PNG dans le dossier visualizations #
+
+#### Partie 4 – Analyses avancées Python ####
+	# Analyse RFM (segmentation clients) #
+     #Matrice de corrélation #
+	# Détection de saisonnalité #
+     # Analyse panier (produits associés)#
+	# Performance des employés #
+
+####  Ces analyses permettent d’identifier : ####
+	# Les clients à forte valeur #
+	# Les risques de dépendance commerciale #
+	# Les opportunités d’optimisation logistique #
+	# Les axes d’amélioration de la performance commerciale #
+
+#### Principaux enseignements économiques ####
+	# Concentration significative du chiffre d’affaires sur un nombre limité de clients #
+	# Présence d’une saisonnalité dans les ventes #
+	# Hétérogénéité des performances commerciales #
+	# Opportunités de cross-selling identifiées via l’analyse panier # 
+    
+####  Technologies utilisées ####
+	# MySQL
+	# Python 3.x
+	# pandas
+	# seaborn
+	# matplotlib
+	# mysql-connector-python
